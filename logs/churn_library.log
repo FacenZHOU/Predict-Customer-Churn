@@ -1,0 +1,5 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - SUCCESS: All EDA results have been successfully saved
+root - INFO - SUCCESS: Categorical columns correctly encoded.
+root - INFO - SUCCESS: Datasets for training and testing have been correctly generated
+root - INFO - SUCCESS: Models successfully saved
